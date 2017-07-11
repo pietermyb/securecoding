@@ -1,0 +1,5 @@
+https://marketplace.visualstudio.com/items?itemName=PumaSecurity.PumaScan
+
+https://dotnet-security-guard.github.io/
+
+https://www.microsoft.com/en-us/download/details.aspx?id=19968
