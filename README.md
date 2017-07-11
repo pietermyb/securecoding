@@ -5,10 +5,16 @@ This repo was created to provide a codebase and presentation for secure Coding.
 This training course is based on Webgoat.NET
 * https://www.owasp.org/index.php/Category:OWASP_WebGoat.NET#tab=Overview
 
-* Introduction to secure coding
-* Authentication and authorization flaws
-* Client side attacks
-* Server side attacks
-* Cryptography
-* Third party vulnerabilities
-* Mobile application
+* Hacking 101
+  * What is Hacking
+  * Hacker Types
+* Kali Linux 101
+  * What is Kali Linux
+  * Hacker Toolset
+* Secure Coding 101
+  * Authentication and authorization flaws
+  * Client side attacks
+  * Server side attacks
+  * Cryptography
+  * Third party vulnerabilities
+  * Mobile application
