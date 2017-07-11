@@ -1,5 +1,5 @@
 # Welcome to Secure Coding Training!
-This repo was created to provide a codebase and presentation for secure Coding.
+This repo was created to provide a codebase and presentation for Secure Coding.
 ## What does this training course cover
 
 This training course is based on Webgoat.NET
@@ -12,9 +12,11 @@ This training course is based on Webgoat.NET
   * What is Kali Linux
   * Hacker Toolset
 * Secure Coding 101
+  * OWASP Top 10
   * Authentication and authorization flaws
   * Client side attacks
   * Server side attacks
   * Cryptography
   * Third party vulnerabilities
+  * Integrating Security
   * Mobile application
